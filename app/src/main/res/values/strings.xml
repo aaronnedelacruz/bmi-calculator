@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="txtAppName">BMI Calculator</string>
+    <string name="edtFirstName">Enter First Name</string>
+    <string name="edtMidInit">Enter MI</string>
+    <string name="edtLastName">Last Name</string>
+
+    <string name="rgrpGender">Select Gender</string>
+    <string name="rbtnMale">Male </string>
+    <string name="rbtnFemale">Female </string>
+
+    <string name="edtHeight">Height in CM</string>
+    <string name="edtWeight">Weight in KG</string>
+
+    <string name="btnCompute">COMPUTE BMI</string>
+
+
+    <string name="txtGender">Gender</string>
+    <string name="txtFullName">Full Name</string>
+    <string name="txtBMILabel">Your BMI Result:</string>
+    <string name="txtBMIResult">Score</string>
+    <string name="txtBMIFinding">State / Condition</string>
+
+    <string name="txtFinding1">Less than 18.5</string>
+    <string name="txtFinding2">Greater than or equal to 18.5 and less than 25</string>
+    <string name="txtFinding3">Greater than or equal to 25 and less than 30</string>
+    <string name="txtFinding4">Greater than or equal to 30</string>
+</resources>
