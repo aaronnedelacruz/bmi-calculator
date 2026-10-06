@@ -2,7 +2,7 @@
 
 A simple Android BMI Calculator built with Kotlin that calculates a user's Body Mass Index (BMI) based on their height and weight. The app classifies the calculated BMI into standard weight categories.
 
-**Note:** This repository showcases one of my earlier Android projects. While I would approach certain implementation details differently today, I have kept the project unchanged to document my learning progress.
+**Note:** *This repository showcases one of my earlier Android projects. While I would approach certain implementation details differently today, I have kept the project unchanged to document my learning progress.*
 
 ## Preview
 <img width="1110" height="737" alt="image" src="https://github.com/user-attachments/assets/38f58140-02ab-408b-af2f-a88272b1dc5f" />
